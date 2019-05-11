@@ -1,0 +1,2 @@
+# CodeAnalyzer
+CodeAnalyzer is full fledged software for academia especially for programming course for instructors to analyze the programs written by students. The algorithm compares "n" C++ programs and detect similarities among them. The UI for the software is written in SFML, a C++ Multimedia Library. This project was presented to Microsoft Imagine Cup 2018 (Pakistan) and got through regional competition. This project was done with contribution from Mussabaheen Malik @https://github.com/Mussabaheen and Syed M. Usman.
